@@ -12,7 +12,7 @@
     {
       "matches": ["http://*/*", "https://*/*"],
       "include_globs": ["http://www.google.*/*", "https://www.google.*/*"],
-      "js": ["jquery-3.3.1.min.js", "script.js"]
+      "js": ["script.js"]
     }
   ]
 }
