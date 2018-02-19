@@ -36,7 +36,7 @@ function renderButton(url) {
         href="` + url + `"
         target="_blank"
       >
-        <span>View Image</span>
+        <span>` + chrome.i18n.getMessage("buttonText") + `</span>
       </a>
     </td>
   `);

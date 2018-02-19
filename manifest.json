@@ -1,6 +1,7 @@
 {
   "manifest_version": 2,
   "name": "View Images",
+  "default_locale": "en",
   "version": "1.0",
   "description": "Restore the View Image button on Google Images",
   "author": "weiwei",
